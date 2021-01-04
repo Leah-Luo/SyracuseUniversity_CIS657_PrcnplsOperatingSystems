@@ -14,5 +14,5 @@ This course includes 3 homework and 1 project. Please note that all assignments 
 	<li>HW1. Get familiar with Unix/Linux commands and BASH scripting.</li>
 	<li>HW2. Get familiar with C programming in Unix/Linux.</li>
 	<li>HW3. Get familiar with (a) how to create, destroy, manage processes on Linux, (b) how a shell works internally on Linux, and (c) how to program based on a skeleton code.</li>
-	<li>Project. Nachos Operating System. The project is under /project directory. See https://github.com/Leah-Luo/SyracuseUniversity/tree/master/Projects/Nachos-SystemCallsAndVirtualMemorySystem </li>
+	<li>Project. Nachos Operating System. Project link [here](https://github.com/Leah-Luo/Nachos-SystemCallsAndVirtualMemorySystem)</li>
 </ol>
